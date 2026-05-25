@@ -7,7 +7,7 @@ JNarrator is GUI-Based Desktop app built in Java which behaves as simple Narrato
 * **File Support:** Allows you to upload and narrate text directly from .txt files.
 * **Format Validation:** Only accepts files that strictly end with the .txt extension.
 
-## Technologies Used
+## Frameworks & Libraries Used
 * **Java Swing & AWT:** Used for building the desktop GUI and handling its components.
 * **FlatLaf:** A look-and-feel library used to provide a clean and comfortable design.
 * **FreeTTS:** The core speech synthesis library used for narrating the text.
