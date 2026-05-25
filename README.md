@@ -1,4 +1,4 @@
-## JNarrator is GUI-Based Desktop app built in Java which behaves as simple Narrator app. it is able to read aloud text from User Input with male voice anytime, only what's needed is to type text in the window and then click on "Narrate" Button.
+# JNarrator is GUI-Based Desktop app built in Java which behaves as simple Narrator app. it is able to read aloud text from User Input with male voice anytime, only what's needed is to type text in the window and then click on "Narrate" Button.
 
 # Also, if you don't like to type large amount of text manually, you can even select .txt files from your computer to Narrate it.
 
