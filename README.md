@@ -8,8 +8,8 @@ JNarrator is GUI-Based Desktop app built in Java which behaves as simple Narrato
 * **Format Validation:** Only accepts files that strictly end with the .txt extension.
 
 ## Frameworks & Libraries Used
-* **Java Swing & AWT:** Used for building the desktop GUI and handling its components.
-* **FlatLaf:** A look-and-feel library used to provide a clean and comfortable design.
+* **Java Swing & AWT:** Swing is framework from JRE System User Library used for Desktop GUIs and their components, it is part of Java Fundation Classes (JFC) and is often paired with Abstract Window Toolkit for additional functions.
+* **FlatLaf:** A small, look-and-feel library used to provide a clean and comfortable design.
 * **FreeTTS:** The core speech synthesis library used for narrating the text.
 
 ## How to Run
