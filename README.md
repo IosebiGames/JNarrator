@@ -1,12 +1,22 @@
-# JNarrator is GUI-Based Desktop app built in Java which behaves as simple Narrator app. it is able to read aloud text from User Input with male voice anytime, only what's needed is to type text in the window and then click on "Narrate" Button.
+# JNarrator
 
-# Also, if you don't like to type large amount of text manually, you can even select .txt files from your computer to Narrate it.
+JNarrator is GUI-Based Desktop app built in Java which behaves as simple Narrator app. it is able to read aloud text from User Input with male voice anytime, only what's needed is to type text in the window and then click on "Narrate" Button.
 
-Cool fact: JNarrator cares about file type, if file doesn't ends with .txt extension, it won't be selected.
+## Features
+* **Text Narration:** Reads any text entered manually into the application window.
+* **File Support:** Allows you to upload and narrate text directly from .txt files.
+* **Format Validation:** Only accepts files that strictly end with the .txt extension.
 
-# JNarrator is using Java Swing, framework from JRE System User Library used for Desktop GUIs and their components, it is part of Java Fundation Classes (JFC) and is often paired with Java AWT (Abstract Window Toolkit) for additional functions.
-Comfortable Look & Feel Comes from small library called FlatLaf. and key Narrating Library is FreeTTS.
+## Technologies Used
+* **Java Swing & AWT:** Used for building the desktop GUI and handling its components.
+* **FlatLaf:** A look-and-feel library used to provide a clean and comfortable design.
+* **FreeTTS:** The core speech synthesis library used for narrating the text.
 
-# JNarrator simply runs from jar file that you can download left click, or Just right Click and Choose "Open".
+## How to Run
+1. Download the jar file from this Repository's Latest Releases.
+2. Double-click the file to run it.
+3. Alternatively, right-click the file and select "Open".
 
-# Important: in order to run the app, you need to have Latest JDK (Java Development Kit installed) and Java Home set.
+## System Requirements
+
+To run this application, you must have the latest JDK (Java Development Kit) installed and your Java Home environment variable set.
